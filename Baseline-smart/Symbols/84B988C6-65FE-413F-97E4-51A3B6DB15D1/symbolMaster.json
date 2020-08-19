@@ -9,9 +9,18 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 1413,
+  "changeIdentifier": 1415,
   "clippingMaskMode": 0,
   "do_objectID": "84B988C6-65FE-413F-97E4-51A3B6DB15D1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
@@ -47,7 +56,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "rectangle",
@@ -76,16 +85,6 @@
   "name": "Divider / Light",
   "nameIsFixed": true,
   "overrideProperties": [
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "03E09D92-7961-4866-B5A5-DFCEF6DA7C3C_symbolID"
-    },
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "0BCDC99C-98A4-4790-9342-454FA3FFFDB2_image"
-    },
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,

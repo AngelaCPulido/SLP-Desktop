@@ -22,7 +22,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 2486,
+    "height": 2481,
     "width": 1920,
     "x": -452,
     "y": -324
@@ -60,7 +60,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "symbolInstance",
@@ -101,6 +101,10 @@
     {
       "class": "group",
       "id": "6B9EC7AD-2667-4FA4-8A04-B2B78FDCBA1F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "98DF24DF-6560-4104-B8F4-EB10B74C26E9"
     }
   ],
   "layout": {
@@ -113,7 +117,7 @@
     "gutterWidth": 32,
     "guttersOutside": true,
     "horizontalOffset": 240,
-    "isEnabled": true,
+    "isEnabled": false,
     "numberOfColumns": 12,
     "rowHeightMultiplication": 1,
     "totalWidth": 1440

@@ -79,8 +79,8 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 36,
-    "width": 523,
+    "height": 35,
+    "width": 474,
     "x": 0,
     "y": 0
   },
@@ -95,10 +95,10 @@
   "lineSpacingBehaviour": 3,
   "name": "Headline 5 Copy 5",
   "nameIsFixed": true,
-  "resizingConstraint": 27,
+  "resizingConstraint": 11,
   "resizingType": 0,
   "rotation": 0,
-  "sharedStyleID": "4D70ABEA-FF8A-4F31-A966-A7C8890273E9",
+  "sharedStyleID": "E1868494-456D-4732-B64B-B8386995583E",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -173,5 +173,12 @@
     },
     "windingRule": 1
   },
-  "textBehaviour": 2
+  "textBehaviour": 0,
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "isAutoWidth": 1
+      }
+    }
+  }
 }

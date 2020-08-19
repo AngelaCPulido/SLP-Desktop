@@ -17,7 +17,7 @@
     "constrainProportions": false,
     "height": 275,
     "width": 232,
-    "x": 1024,
+    "x": 512,
     "y": 52
   },
   "hasClippingMask": false,
@@ -34,16 +34,21 @@
     {
       "_class": "overrideValue",
       "overrideName": "186872B5-E248-4A2A-B33E-57A11BCEA3C2_stringValue",
-      "value": "Grengrocer"
+      "value": "Breakfast"
     },
     {
       "_class": "overrideValue",
       "overrideName": "436B7BF8-F496-4773-B844-94D743B170ED_image",
       "value": {
         "_class": "MSJSONFileReference",
-        "_ref": "images/164fc663ee435557600a9a56ef9ff429d4ff3ae5.png",
+        "_ref": "images/c961f6a193d0704be08f8ef1be9de3750fbf0298.png",
         "_ref_class": "MSImageData"
       }
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "5A81A2F5-66CE-455C-B64A-C7728BA645AA_symbolID",
+      "value": ""
     }
   ],
   "resizingConstraint": 63,
@@ -100,7 +105,7 @@
   "symbolID": "80336FB9-3FB5-487E-8337-A8237202FCE2",
   "userInfo": {
     "unsplash": {
-      "unsplash.search.term": "\"nutrition\""
+      "unsplash.search.term": "\"bread\""
     }
   },
   "verticalSpacing": 0

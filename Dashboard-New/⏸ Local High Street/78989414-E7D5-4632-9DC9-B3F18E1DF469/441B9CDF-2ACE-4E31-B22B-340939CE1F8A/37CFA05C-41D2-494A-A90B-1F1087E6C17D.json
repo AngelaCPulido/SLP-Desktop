@@ -28,7 +28,7 @@
             "allowsDefaultTighteningForTruncation": 0
           }
         },
-        "length": 16,
+        "length": 8,
         "location": 0
       },
       {
@@ -56,11 +56,11 @@
             "allowsDefaultTighteningForTruncation": 0
           }
         },
-        "length": 5,
-        "location": 16
+        "length": 8,
+        "location": 8
       }
     ],
-    "string": "Events Updates, 7 Jun"
+    "string": "Events, near you"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": 0,
@@ -80,11 +80,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 35,
-    "width": 352,
+    "width": 222,
     "x": 0,
     "y": 0
   },
-  "glyphBounds": "{{2, 5}, {299, 30}}",
+  "glyphBounds": "{{2, 6}, {217, 29}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -95,10 +95,10 @@
   "lineSpacingBehaviour": 3,
   "name": "Headline 5 Copy 4",
   "nameIsFixed": true,
-  "resizingConstraint": 27,
+  "resizingConstraint": 11,
   "resizingType": 0,
   "rotation": 0,
-  "sharedStyleID": "4D70ABEA-FF8A-4F31-A966-A7C8890273E9",
+  "sharedStyleID": "E1868494-456D-4732-B64B-B8386995583E",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -173,5 +173,12 @@
     },
     "windingRule": 1
   },
-  "textBehaviour": 1
+  "textBehaviour": 0,
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "isAutoWidth": 1
+      }
+    }
+  }
 }

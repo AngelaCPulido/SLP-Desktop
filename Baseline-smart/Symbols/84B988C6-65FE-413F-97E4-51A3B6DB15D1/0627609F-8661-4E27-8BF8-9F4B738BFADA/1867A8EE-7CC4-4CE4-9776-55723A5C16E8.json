@@ -4,6 +4,15 @@
   "clippingMaskMode": 0,
   "do_objectID": "1867A8EE-7CC4-4CE4-9776-55723A5C16E8",
   "edited": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
   "fixedRadius": 0,
   "frame": {
     "_class": "rect",
@@ -219,5 +228,26 @@
     ],
     "startMarkerType": 0,
     "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 1,
+            "enabled": 1,
+            "modelID": "constraint_5cff9cf2-2b8b-483f-a947-519b5b98ab26",
+            "model_class": "ADModelConstraint",
+            "model_version": 0,
+            "multiplier": 272
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_0b13d70b-4c9b-4186-9551-16b1f4366f02",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0,
+          "scaleFactor": 1
+        }
+      }
+    }
   }
 }

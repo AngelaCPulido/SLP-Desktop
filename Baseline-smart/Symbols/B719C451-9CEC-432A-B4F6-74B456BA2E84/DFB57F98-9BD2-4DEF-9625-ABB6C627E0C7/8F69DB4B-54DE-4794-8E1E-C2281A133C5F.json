@@ -4,6 +4,15 @@
   "clippingMaskMode": 0,
   "do_objectID": "8F69DB4B-54DE-4794-8E1E-C2281A133C5F",
   "edited": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
   "fixedRadius": 0,
   "frame": {
     "_class": "rect",
@@ -163,10 +172,10 @@
         "_class": "fill",
         "color": {
           "_class": "color",
-          "alpha": 0.87,
-          "blue": 0,
-          "green": 0,
-          "red": 0
+          "alpha": 1,
+          "blue": 0.1992319993846641,
+          "green": 0.1792191205411482,
+          "red": 0.1565251811483675
         },
         "contextSettings": {
           "_class": "graphicsContextSettings",

@@ -15,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 626,
+    "height": 621,
     "width": 687,
     "x": 960,
-    "y": 1344
+    "y": 1804
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -30,7 +30,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "text",
@@ -51,10 +51,6 @@
     {
       "class": "symbolInstance",
       "id": "21A0847B-CE91-4825-96E3-10CDB2474094"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "247B33D9-2264-4376-95C2-82714BFDB12A"
     }
   ],
   "name": "Events",

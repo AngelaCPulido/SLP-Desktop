@@ -1,0 +1,103 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "F9364B62-C926-4DC8-9E82-7F18549E1682",
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 349,
+    "width": 277,
+    "x": 132,
+    "y": 66
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "5F2A11CC-ECE7-4BFC-9759-2E329D7DBD49"
+    },
+    {
+      "class": "group",
+      "id": "B2BA2A9A-25B6-4507-89A1-5D1BDFFC97CA"
+    },
+    {
+      "class": "group",
+      "id": "0915E6ED-BC65-41C1-AD02-67F0ECC47A47"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "9E0B353C-5704-4518-A11B-F865A1CAA6C4"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1EEF9792-F64F-4573-838E-71C4DD018394"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "CA1AC8FD-EDE4-40C7-A64B-37AF16A80A42"
+    }
+  ],
+  "name": "side-menu",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": true,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "D54776E6-5393-4239-9CAB-64AB0C4E1D93",
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

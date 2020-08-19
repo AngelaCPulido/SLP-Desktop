@@ -1,0 +1,95 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "CF3DE2B4-6603-4A1E-852D-D74C4F434F94",
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 38.42105263157893,
+    "width": 46.12017167381975,
+    "x": 330.5278969957081,
+    "y": 123.8011695906433
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "E5ABAD46-C8F7-43C3-8998-F05BD654DF7B"
+    },
+    {
+      "class": "oval",
+      "id": "27418049-24F8-4889-95A1-AB2FAA602E9B"
+    },
+    {
+      "class": "oval",
+      "id": "A2E58C58-5A4D-4D19-A2A4-038CB20F3C65"
+    },
+    {
+      "class": "oval",
+      "id": "974DF3F2-9317-4ABF-9252-8503CFB24664"
+    }
+  ],
+  "name": "004-marketing",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": -29,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "82896BA8-A7FF-486E-ABF9-B13D7DF4D9AD",
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "5BAF8499-5F10-4E0A-8E4D-653B029C61A8",
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 400,
+    "width": 256,
+    "x": 0,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "201CD911-D910-4CC4-9E08-C19BF9FBAC3D"
+    },
+    {
+      "class": "text",
+      "id": "182A6895-E14B-44AB-879F-2DD60F48B3D7"
+    },
+    {
+      "class": "text",
+      "id": "5629DA74-068A-4A82-8E01-BB160A7771C1"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1D661260-ACF4-498A-AB18-3FD14A65B5C1"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "67A93DB9-FD7A-4BB8-A7E3-018747A1B556"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "59F98E73-E515-4E3E-827F-96B3CCCF842D"
+    },
+    {
+      "class": "oval",
+      "id": "0BAC74DE-0784-41B1-A9DD-B82B0818675A"
+    }
+  ],
+  "name": "Card-populard-funds",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "33DD8BD5-624A-45A4-B03B-AA00F6D0C497",
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

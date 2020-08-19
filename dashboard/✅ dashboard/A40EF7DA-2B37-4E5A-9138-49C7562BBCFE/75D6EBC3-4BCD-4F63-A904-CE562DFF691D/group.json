@@ -1,0 +1,99 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "75D6EBC3-4BCD-4F63-A904-CE562DFF691D",
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 965,
+    "width": 576,
+    "x": 432,
+    "y": 66
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "E389C041-FB84-4ED0-9D77-C792686E1B03"
+    },
+    {
+      "class": "shapePath",
+      "id": "DA1C1E2C-E2E6-471A-A136-39444C888157"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1267A6DB-C50B-4EDC-B678-EBE8E6683335"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C0846C9A-0CFA-474F-AC7E-6C500873C580"
+    },
+    {
+      "class": "group",
+      "id": "1E967218-F3AD-461B-B499-7631315F6F9D"
+    }
+  ],
+  "name": "Feed",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": true,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "54E2EF49-0E7F-4249-B6BD-9121FC756D2F",
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

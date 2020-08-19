@@ -1,0 +1,103 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "94019556-0E7A-43C6-9451-43C5497CDD12",
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 260,
+    "width": 249,
+    "x": 580,
+    "y": 550
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "7BA432B6-09C7-4F62-8F99-BA547149C1A5"
+    },
+    {
+      "class": "group",
+      "id": "BD5A49A6-21E5-4BDA-9F94-F41C1FE764D5"
+    },
+    {
+      "class": "text",
+      "id": "1F8873B3-96A2-44F1-A9EE-3DD1E1147C48"
+    },
+    {
+      "class": "group",
+      "id": "53790556-6518-40C8-9AC7-8566A11AB2FA"
+    },
+    {
+      "class": "text",
+      "id": "DA2C6CF1-C91C-46F2-9CDA-67032CE68008"
+    },
+    {
+      "class": "text",
+      "id": "F836E35B-1F07-4A83-9BE7-CA1ACE8D7A08"
+    }
+  ],
+  "name": "Card-calendar-pop-up Copy",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "343C5A18-8964-40C5-957C-012F4E2AECF6",
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}
